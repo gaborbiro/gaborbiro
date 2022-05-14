@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabor</h1>
-<h3 align="center">a Hungarian freelancer Android app developer</h3>
+<h3 align="center">an Android app developer</h3>
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaborbiro&label=Profile%20views&color=0e75b6&style=flat" alt="gaborbiro" /> </p>
 
