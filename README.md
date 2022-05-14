@@ -14,7 +14,7 @@
 
 - 😬 I don't read my LinkedIn messages, soz
 
-- ⚡ Stuff I find funny or inspiring <a href="https://www.tiktok.com/@gabor_biro" target="blank"><img align="center" src="https://www.svgrepo.com/show/327400/logo-tiktok.svg" alt="@gabor_biro" height="30" width="30" /></a>
+- ⚡ Stuff I find funny, thought provoking or inspiring <a href="https://www.tiktok.com/@gabor_biro" target="blank"><img align="center" src="https://www.svgrepo.com/show/327400/logo-tiktok.svg" alt="@gabor_biro" height="30" width="30" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
