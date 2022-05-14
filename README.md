@@ -24,39 +24,87 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<table style="width: 827px;">
-<tbody>
-<tr>
-<td style="width: 270.819px;" valign="top">
-<h3 dir="auto"><a id="user-content-frontend" class="anchor" href="#frontend" aria-hidden="true"> </a> Mobile App Development</h3>
-<div dir="auto" align="center"><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /></a><a href="https://kotlinlang.org/"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" /></a><a title="Dagger 2" href="https://dagger.dev/" target="_blank"><img src="https://raw.githubusercontent.com/gaborbiro/host/main/dagger2.png" alt="Dagger 2" width="68" height="40" /></a><a title="Koin" href="https://insert-koin.io/" target="_blank"><img src="https://raw.githubusercontent.com/InsertKoinIO/koin/main/docs/img/koin_main_logo.png" alt="Koin" width="101" height="30" /></a><br /><a title="RxJava" href="https://github.com/ReactiveX/RxJava" target="_blank">RxJava</a>/<a title="RxAndroid" href="https://github.com/ReactiveX/RxAndroid" target="_blank">RxAndroid</a><br /><a title="Coroutines" href="https://developer.android.com/kotlin/coroutines" target="_blank">Coroutines</a><br />Jetpack: <a title="Navigation" href="https://developer.android.com/guide/navigation" target="_blank">Navigation</a>, <a title="Databinding" href="https://developer.android.com/topic/libraries/data-binding" target="_blank">Databinding</a><br /><a title="MVVM with Clean Architecture" href="https://www.toptal.com/android/android-apps-mvvm-with-clean-architecture" target="_blank">CLEAN Architecture (MVI/MV</a><br /><a title="MVVM with Clean Architecture" href="https://www.toptal.com/android/android-apps-mvvm-with-clean-architecture" target="_blank">P/MVVM)</a> <br /><br /></div>
-</td>
-<td style="width: 265.344px;" valign="top">
-<h3 dir="auto"><a id="user-content-backend" class="anchor" href="#backend" aria-hidden="true"> </a> Devops</h3>
-<div dir="auto" align="center"><a title="Bitrise" href="https://www.bitrise.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/bitriseio/bitriseio-icon.svg" alt="Bitrise" width="40" height="40" /></a><a href="https://circleci.com" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40" /></a><a href="https://travis-ci.org" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40" /></a><a href="https://www.jenkins.io" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" /></a></div>
-</td>
-<td style="width: 268.837px;" valign="top">
-<h3 dir="auto"><a id="user-content-devops" class="anchor" href="#devops" aria-hidden="true"> </a> Databases</h3>
-<div dir="auto" align="center"><a href="https://www.sqlite.org/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /></a><a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a><br /><a title="Room" href="https://developer.android.com/training/data-storage/room" target="_blank">Room</a></div>
-</td>
-</tr>
-<tr>
-<td style="width: 270.819px;">
-<h3 dir="auto">Programming Languages</h3>
-<div dir="auto" align="center"><a href="https://kotlinlang.org/"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" /></a><a href="https://www.java.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a><a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a></div>
-</td>
-<td style="width: 265.344px;">
-<h3 dir="auto">Backend as a Service (BaaS)</h3>
-<div dir="auto" align="center"><a href="https://restfulapi.net/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /><img src="https://raw.githubusercontent.com/gaborbiro/host/main/rest-api-1.svg" alt="Rest API" width="111" height="40" /></a></div>
-</td>
-<td style="width: 268.837px;">
-<h3 dir="auto">Other</h3>
-<div dir="auto" align="center"><a href="https://postman.com" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a> <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" alt="django" width="40" height="40" /></a> <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a></div>
-</td>
-</tr>
-</tbody>
+<table width="100%">
+    <tbody>
+        <tr>
+            <td valign="top">
+                <h3 dir="auto"><a id="user-content-frontend" class="anchor" href="#frontend" aria-hidden="true"> </a> Mobile App Development</h3>
+                <div dir="auto" align="center">
+                    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
+                    </a>
+                    <a href="https://kotlinlang.org/"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" /></a>
+                    <a title="Dagger 2" href="https://dagger.dev/" target="_blank"><img src="https://raw.githubusercontent.com/gaborbiro/host/main/dagger2.png" alt="Dagger 2" width="68" height="40" /></a>
+                    <a title="Koin" href="https://insert-koin.io/" target="_blank"><img src="https://raw.githubusercontent.com/InsertKoinIO/koin/main/docs/img/koin_main_logo.png" alt="Koin" width="101" height="30" /></a><br />
+                    <a title="RxJava" href="https://github.com/ReactiveX/RxJava" target="_blank">RxJava</a>/<a title="RxAndroid" href="https://github.com/ReactiveX/RxAndroid" target="_blank">RxAndroid</a><br />
+                    <a title="Coroutines" href="https://developer.android.com/kotlin/coroutines" target="_blank">Coroutines</a><br />
+                    Jetpack: <a title="Navigation" href="https://developer.android.com/guide/navigation" target="_blank">Navigation</a>,
+                    <a title="Databinding" href="https://developer.android.com/topic/libraries/data-binding" target="_blank">Databinding</a><br />
+                    <a title="MVVM with Clean Architecture" href="https://www.toptal.com/android/android-apps-mvvm-with-clean-architecture" target="_blank">CLEAN Architecture (MVI/MV</a><br />
+                    <a title="MVVM with Clean Architecture" href="https://www.toptal.com/android/android-apps-mvvm-with-clean-architecture" target="_blank">P/MVVM)</a> <br />
+                    <br />
+                </div>
+            </td>
+            <td valign="top">
+                <h3 dir="auto"><a id="user-content-backend" class="anchor" href="#backend" aria-hidden="true"> </a> Devops</h3>
+                <div dir="auto" align="center">
+                    <a title="Bitrise" href="https://www.bitrise.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/bitriseio/bitriseio-icon.svg" alt="Bitrise" width="40" height="40" /></a>
+                    <a href="https://circleci.com" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40" /></a>
+                    <a href="https://travis-ci.org" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40" /></a>
+                    <a href="https://www.jenkins.io" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" /></a>
+                </div>
+            </td>
+            <td valign="top">
+                <h3 dir="auto"><a id="user-content-devops" class="anchor" href="#devops" aria-hidden="true"> </a> Databases</h3>
+                <div dir="auto" align="center">
+                    <a href="https://www.sqlite.org/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /></a>
+                    <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+                    </a>
+                    <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+                    </a>
+                    <br />
+                    <a title="Room" href="https://developer.android.com/training/data-storage/room" target="_blank">Room</a>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3 dir="auto">Programming Languages</h3>
+                <div dir="auto" align="center">
+                    <a href="https://kotlinlang.org/"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" /></a>
+                    <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+                    </a>
+                    <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+                    </a>
+                    <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
+                </div>
+            </td>
+            <td>
+                <h3 dir="auto">Backend as a Service (BaaS)</h3>
+                <div dir="auto" align="center">
+                    <a href="https://restfulapi.net/" target="_blank" rel="noopener noreferrer">
+                        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+                        <img src="https://raw.githubusercontent.com/gaborbiro/host/main/rest-api-1.svg" alt="Rest API" width="111" height="40" />
+                    </a>
+                </div>
+            </td>
+            <td>
+                <h3 dir="auto">Other</h3>
+                <div dir="auto" align="center">
+                    <a href="https://postman.com" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
+                    <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" alt="django" width="40" height="40" /></a>
+                    <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
+                </div>
+            </td>
+        </tr>
+    </tbody>
 </table>
 <p>&nbsp;</p>
-</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaborbiro&show_icons=true&locale=en&layout=compact" alt="gaborbiro" /></p>
+
