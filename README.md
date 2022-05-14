@@ -82,7 +82,7 @@
                 <h3 dir="auto">Backend</h3>
                 <div dir="auto" align="center">
                     <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>
-                    <a href="https://restfulapi.net/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/gaborbiro/host/main/rest-api-1.svg" alt="Rest API" width="111" height="40" /></a>
+                    <a href="https://restfulapi.net/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/gaborbiro/host/main/rest-api-1.svg" alt="Rest API" width="51" height="40" /></a>
                 </div>
             </td>
             <td>
