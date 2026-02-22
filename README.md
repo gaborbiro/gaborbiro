@@ -10,7 +10,7 @@
 
 - 📜🤝💵 When I'm available to take on new work, I can be contracted through [Toptal](https://www.toptal.com/resume/gabor-biro)
 
-- 📫 or just like email me at **gabor.biro@yahoo.com** (do mention where you found out about me)
+- 📫 or just like email me at **nomadworkz@gmail.com** (do mention where you found out about me)
 
 - 😬 I don't read my LinkedIn messages, soz
 
@@ -18,7 +18,7 @@
 <p align="left">
     <a href="https://linkedin.com/in/gabriel-biro" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gabriel-biro" /></a>
     <a href="https://github.com/gaborbiro" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="gaborbiro" /></a>
-    <a href="mailto:gabor.biro@yahoo.com" target="_blank"><img align="center" src="https://img.shields.io/badge/yahoo-6001D2?style=for-the-badge&logo=github&logoColor=white" alt="gabor.biro@yahoo.com" /></a>
+    <a href="mailto:nomadworkz@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="nomadworkz@gmail.com" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
