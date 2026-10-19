@@ -1,100 +1,39 @@
-<h1 align="center">Hi 👋, I'm Gabor</h1>
-<h3 align="center">an Android app developer</h3>
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /></p>
+# Gabor Biro
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaborbiro&label=Profile%20views&color=0e75b6&style=flat" alt="gaborbiro" /> </p>
+**Senior / Lead Android Engineer · Kotlin · Jetpack Compose**
 
-- 🔭 I’m currently working for a US based sleep health startup, on their Android app.
+I build Android apps from architecture through to release. I have **10+ years of Android experience** and **15+ years in software**, with work spanning health tech, banking, delivery and connected devices.
 
-- 👨‍💻 Some of my previous work can be viewed at [UpWork](https://www.upwork.com/freelancers/~0103abd70ac9e350b0)
+At **Somnology**, I built and owned much of the Android app: architecture, BLE connectivity, background health-data synchronisation, automated testing and releases. My previous work includes **Goldman Sachs, Deliveroo and Facebook**.
 
-- 📜🤝💵 When I'm available to take on new work, I can be contracted through [Toptal](https://www.toptal.com/resume/gabor-biro)
+**Open to senior/lead Android roles and contract opportunities.** Email is the best way to reach me: [nomadworkz@gmail.com](mailto:nomadworkz@gmail.com).
 
-- 📫 or just like email me at **nomadworkz@gmail.com** (do mention where you found out about me)
+## Selected work
 
-- 😬 I don't read my LinkedIn messages, soz
+### [Daily Macros](https://github.com/gaborbiro/DailyMacros)
+A native Android food diary that uses AI to estimate nutrition from meal photos and descriptions. Users can review the estimates, track daily targets and trends, and log regular meals from home-screen widgets.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/gabriel-biro" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gabriel-biro" /></a>
-    <a href="https://github.com/gaborbiro" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="gaborbiro" /></a>
-    <a href="mailto:nomadworkz@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="nomadworkz@gmail.com" /></a>
-</p>
+**Engineering highlights:** modular Kotlin and Compose architecture, Room persistence, Coroutines, Hilt, optional Google Drive backup, and a Firebase Cloud Functions proxy for AI requests. Automated tests and GitHub Actions cover builds and releases.
 
-<h3 align="left">Languages and Tools:</h3>
-<table width="100%">
-    <tbody>
-        <tr>
-            <td valign="top">
-                <h3 dir="auto"><a id="user-content-frontend" class="anchor" href="#frontend" aria-hidden="true"> </a> Mobile App Development</h3>
-                <div dir="auto" align="center">
-                    <a href="https://developer.android.com" target="_blank" rel="noopener noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /></a>
-                    <a href="https://kotlinlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" /></a>
-                    <a title="Dagger 2" href="https://dagger.dev/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/gaborbiro/host/main/dagger2.png" alt="Dagger 2" width="68" height="40" /></a>
-                    <a title="Koin" href="https://insert-koin.io/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/InsertKoinIO/koin/main/docs/img/koin_main_logo.png" alt="Koin" width="101" height="30" /></a><br />
-                    <a title="RxJava" href="https://github.com/ReactiveX/RxJava" target="_blank" rel="noopener noreferrer">RxJava</a>/<a title="RxAndroid" href="https://github.com/ReactiveX/RxAndroid" target="_blank" rel="noopener noreferrer">RxAndroid</a><br />
-                    <a title="Coroutines" href="https://developer.android.com/kotlin/coroutines" target="_blank" rel="noopener noreferrer">Coroutines</a><br />
-                    Jetpack: <a title="Navigation" href="https://developer.android.com/guide/navigation" target="_blank" rel="noopener noreferrer">Navigation</a>,
-                    <a title="Databinding" href="https://developer.android.com/topic/libraries/data-binding" target="_blank" rel="noopener noreferrer">Databinding</a><br />
-                    <a title="MVVM with Clean Architecture" href="https://www.toptal.com/android/android-apps-mvvm-with-clean-architecture"  target="_blank" rel="noopener noreferrer">CLEAN Architecture (MVI/MVP/MVVM)</a><br />
-                    <br />
-                </div>
-            </td>
-            <td valign="top">
-                <h3 dir="auto"><a id="user-content-backend" class="anchor" href="#backend" aria-hidden="true"> </a> Devops</h3>
-                <div dir="auto" align="center">
-                    <a title="Bitrise" href="https://www.bitrise.io/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/bitriseio/bitriseio-icon.svg" alt="Bitrise" width="40" height="40" /></a>
-                    <a href="https://circleci.com" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40" /></a>
-                    <a href="https://travis-ci.org" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40" /></a>
-                    <a href="https://www.jenkins.io" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" /></a>
-                </div>
-            </td>
-            <td valign="top">
-                <h3 dir="auto"><a id="user-content-devops" class="anchor" href="#devops" aria-hidden="true"> </a> Databases</h3>
-                <div dir="auto" align="center">
-                    <a href="https://www.sqlite.org/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /></a>
-                    <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
-                    <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
-                    <br />
-                    <a title="Room" href="https://developer.android.com/training/data-storage/room" target="_blank" rel="noopener noreferrer">Room</a>
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h3 dir="auto">Programming Languages</h3>
-                <div dir="auto" align="center">
-                    <a href="https://kotlinlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" /></a>
-                    <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
-                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-                    <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
-                    <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-                </div>
-            </td>
-            <td>
-                <h3 dir="auto">Backend</h3>
-                <div dir="auto" align="center">
-                    <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>
-                    <a href="https://restfulapi.net/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/gaborbiro/host/main/rest-api-1.svg" alt="Rest API" width="51" height="40" /></a>
-                </div>
-            </td>
-            <td>
-                <h3 dir="auto">Other</h3>
-                <div dir="auto" align="center">
-                    <a href="https://postman.com" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
-                    <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" alt="django" width="40" height="40" /></a>
-                    <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-                </div>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<p>&nbsp;</p>
+[Website and screenshots](https://gaborbiro.dev) · [Source and technical overview](https://github.com/gaborbiro/DailyMacros)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaborbiro&show_icons=true&locale=en&layout=compact" alt="gaborbiro" /></p>
+### [Photo Cleaner](https://github.com/gaborbiro/google-photo-cleaner)
+A Chrome extension for finding duplicates and clutter in large Google Photos libraries. AI analysis runs locally in the browser using WebGPU; users review suggested removals, with protection rules for favourites, albums and archived photos.
+
+**Engineering highlights:** a TypeScript browser extension with Kotlin Multiplatform rules compiled to JavaScript, local IndexedDB storage, and automated checks for the rules and extension.
+
+[Source and setup](https://github.com/gaborbiro/google-photo-cleaner)
+
+## What I work with
+
+- **Android:** Kotlin, Jetpack Compose, Coroutines/Flow, Room, Hilt/Dagger, WorkManager and BLE.
+- **Engineering:** modular architecture, MVVM/MVI, API design, background synchronisation and production troubleshooting.
+- **Quality and delivery:** unit and UI testing, CI/CD, GitHub Actions and release automation.
+- **Beyond Android:** Kotlin Multiplatform, TypeScript, browser extensions and Firebase.
+
+## Experience and contact
+
+[Professional résumé on Toptal](https://www.toptal.com/developers/resume/gabor-biro) · [LinkedIn](https://www.linkedin.com/in/gabriel-biro/) · [Upwork portfolio](https://www.upwork.com/freelancers/~0103abd70ac9e350b0)
+
+For roles, contracts or a discussion about these projects, email [nomadworkz@gmail.com](mailto:nomadworkz@gmail.com).
 
