@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaborbiro&label=Profile%20views&color=0e75b6&style=flat" alt="gaborbiro" /> </p>
 
-- 🔭 I’m currently working **on the mobile banking app of an international investment bank🤐**
+- 🔭 I’m currently working for a US based sleep health startup, on their Android app.
 
 - 👨‍💻 Some of my previous work can be viewed at [UpWork](https://www.upwork.com/freelancers/~0103abd70ac9e350b0)
 
